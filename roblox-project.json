@@ -1,0 +1,15 @@
+{
+    "name": "Roblox Logger",
+    "tree": {
+        "$className": "DataModel",
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "Roblox Logger": {
+                "$path": "src"
+            },
+            "All Roblox Logger": {
+                "$path": ""
+            }
+        }
+    }
+}
